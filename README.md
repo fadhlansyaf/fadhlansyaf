@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi! My name is Fadhlan, I'm a passionate mobile developer with a focus on Flutter, dedicated to mobile app development. Eager to expand my skills, currently exploring Swift. I've been part of several projects, working with a variety of libraries to create innovative solutions.
 <!--
 **fadhlansyaf/fadhlansyaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
