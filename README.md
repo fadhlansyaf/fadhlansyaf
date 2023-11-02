@@ -2,7 +2,7 @@
 
 Hi! My name is Fadhlan, I'm a passionate mobile developer with a focus on Flutter, dedicated to mobile app development. Eager to expand my skills, currently exploring Swift. I've been part of several projects, working with a variety of libraries to create innovative solutions.
 
-Here are a couple of projects that I've been a part of:
+Here are a couple of projects that I've been a part of that is available on Google Play Store:
 
 1. SFA/Visitqu - https://play.google.com/store/apps/details?id=com.sisapp.salesforce&hl=en-ID
 2. Ayoo Desa Juara! - https://play.google.com/store/apps/details?id=id.ayodesajuara.app&hl=en-ID
