@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! My name is Fadhlan, I'm a passionate mobile developer with a focus on Flutter, dedicated to mobile app development. Eager to expand my skills, currently exploring Swift. I've been part of several projects, working with a variety of libraries to create innovative solutions.
+Hi! My name is Fadhlan, I'm a passionate mobile developer with a focus on Flutter, dedicated to mobile app development. Always eager to expand my skills. I've been part of several projects, working with a variety of libraries to create innovative solutions.
 
 Here are a couple of projects that I've been a part of that is available on Google Play Store:
 
