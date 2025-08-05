@@ -12,7 +12,9 @@ Hi! I’m **Fadhlan**, a passionate mobile developer specializing in **Flutter**
 
 * **BizOps**
   Android: [Google Play](https://play.google.com/store/apps/details?id=com.divistant.ex_mobile.ex_mobile&hl=id)
+
   iOS: [App Store](https://apps.apple.com/id/app/bizops/id6733236612)
+
   A business operations support app that streamlines internal workflows.
 
 ## 🛠️ Demo Projects
