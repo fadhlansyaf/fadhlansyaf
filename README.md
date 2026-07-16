@@ -6,10 +6,10 @@ Hi! I'm **Fadhlan**, a mobile developer specializing in **Flutter** with 3+ year
 
 * **[SFA/Visitqu](https://play.google.com/store/apps/details?id=com.sisapp.salesforce&hl=en-ID)**
   A sales force automation app for planning visits and collecting data.
-* **[Ayoo Desa Juara!](https://play.google.com/store/apps/details?id=id.ayodesajuara.app&hl=en-ID)**
-  A community development app that empowers villages with interactive features.
 * **BizOps** — [Google Play](https://play.google.com/store/apps/details?id=com.divistant.ex_mobile.ex_mobile&hl=id) · [App Store](https://apps.apple.com/id/app/bizops/id6733236612)
   A business operations support app that streamlines internal workflows.
+* **BizOps Chat** — [Google Play](https://play.google.com/store/apps/details?id=com.divistant.bizops.chat) · [App Store](https://apps.apple.com/id/app/bizops-chat/id6754753212)
+  A companion chat app for BizOps, shipped to the Play Store and App Store.
 
 ## 🛠️ Demo Projects
 
