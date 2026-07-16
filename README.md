@@ -1,26 +1,21 @@
 # Hi there 👋
 
-Hi! I’m **Fadhlan**, a passionate mobile developer specializing in **Flutter**, dedicated to building high-quality mobile applications. Always eager to learn and expand my skills, including exploring other mobile platforms and languages such as Swift for iOS, Kotlin for Android, and Kotlin Multiplatform for shared codebases.
+Hi! I'm **Fadhlan**, a mobile developer specializing in **Flutter** with 3+ years of experience shipping production apps to the Play Store and App Store. I build with **Clean Architecture** and the **BLoC** pattern, and I'm expanding into backend development.
 
 ## 📱 Live Apps
 
 * **[SFA/Visitqu](https://play.google.com/store/apps/details?id=com.sisapp.salesforce&hl=en-ID)**
   A sales force automation app for planning visits and collecting data.
-
 * **[Ayoo Desa Juara!](https://play.google.com/store/apps/details?id=id.ayodesajuara.app&hl=en-ID)**
   A community development app that empowers villages with interactive features.
-
-* **BizOps**
-  (Android: [Google Play](https://play.google.com/store/apps/details?id=com.divistant.ex_mobile.ex_mobile&hl=id)
-  iOS: [App Store](https://apps.apple.com/id/app/bizops/id6733236612))
-
+* **BizOps** — [Google Play](https://play.google.com/store/apps/details?id=com.divistant.ex_mobile.ex_mobile&hl=id) · [App Store](https://apps.apple.com/id/app/bizops/id6733236612)
   A business operations support app that streamlines internal workflows.
 
 ## 🛠️ Demo Projects
 
 ### Demo Note App
 
-A simple note-taking app code showcase demonstrating Clean Architecture and coding style, rather than UI slicing.
+A code showcase demonstrating **Clean Architecture** and coding style, rather than UI slicing.
 
 #### Features
 
@@ -32,8 +27,8 @@ A simple note-taking app code showcase demonstrating Clean Architecture and codi
 #### Tech Stack
 
 * **Flutter & Dart** – Core framework and language
-* **flutter\_bloc** – State management
-* **flutter\_screenutil** – Responsive UI scaling
+* **flutter_bloc** – State management
+* **flutter_screenutil** – Responsive UI scaling
 * **equatable** – Value equality
 * **marquee** – Text scrolling animation
 
